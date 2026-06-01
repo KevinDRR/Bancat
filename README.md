@@ -6,7 +6,7 @@ decisiones de negocio: aprobación, monto máximo, tasa de interés, producto re
 y sugerencias de mejora. Incluye gestión de clientes (CRUD) y un dashboard analítico.
 
 > 📘 La **documentación técnica detallada** (FastAPI, base de datos, modelos, CRUD,
-> validaciones y excepciones) está en **[DOCUMENTACION_TECNICA.md](DOCUMENTACION_TECNICA.md)**.
+> validaciones y excepciones) está en **[DocTecnico.pdf](DocTecnico.pdf)**.
 
 ---
 

@@ -1,0 +1,1 @@
+import{at as o,ar as l,X as p,l as v,aT as y,b7 as T,b2 as f,b3 as i,p as m,as as b}from"./CqjsPOPo.js";import{B as A}from"./21zz6uhk.js";function E(d,_,s){var t;o&&(t=b,l());var r=new A(d);p(()=>{var a=_()??null;if(o){var h=y(t),c=h===m,u=a!==null;if(c!==u){var e=T();f(e),r.anchor=e,i(!1),r.ensure(a,a&&(n=>s(n,a))),i(!0);return}}r.ensure(a,a&&(n=>s(n,a)))},v)}export{E as c};

@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+itsdangerous
+sqlalchemy
+torch
+numpy
+scikit-learn
+shap

@@ -1,0 +1,18 @@
+{
+	"/": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/clientes": [
+		"src/routes/+layout.ts"
+	],
+	"/credito": [
+		"src/routes/+layout.ts"
+	],
+	"/login": [
+		"src/routes/+layout.ts"
+	],
+	"/metricas": [
+		"src/routes/+layout.ts"
+	]
+}
